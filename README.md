@@ -1,3 +1,3 @@
-# Document-Object-Model
+# Javascript-Projects
 
 Todo-list Code
