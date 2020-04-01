@@ -8,7 +8,6 @@ let calMarksBmi = getMarksWeight / (getMarksHeight * getMarksHeight);
 // Round Up the BMI & alert the BMI
 alert(`Mark's Bmi is ` + Math.floor(calMarksBmi));
 
-
 let getJohnsHeight = prompt(); // Add John's  Height
 let getJohnsWeight = prompt(); // Add John's Mass
 
